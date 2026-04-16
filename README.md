@@ -1,97 +1,60 @@
-<h1 align="center">Hi 👋, I'm Miriã Santos</h1>
-<h3 align="center">A passionate software developer</h3>
+### 👩‍💻 About Me
+- 🎯 Data Analyst with experience in retail and logistics  
+- 📊 Strong in SQL, Python and BI tools (Power BI & Qlik Sense)  
+- ⚙️ Focused on automation, ETL and performance analysis  
+- 🚀 Passionate about turning data into business value  
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=mihhsantos&label=Profile%20views&color=0e75b6&style=flat"
-        alt="mihhsantos" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🎯 Career Focus
+- Data Analysis & Business Intelligence  
+- Data Engineering fundamentals  
+- Process automation with Python  
+
+---
+
+### 🔗 Connect with me
+
+---
+
+### 🛠️ Main Skills
+- **SQL (Advanced)** → CTE, Window Functions, Performance  
+- **Python** → Pandas, NumPy, Automation (RPA)  
+- **BI Tools** → Power BI, Qlik Sense  
+- **Data Modeling** → Star Schema, Data Warehouse  
+- **ETL & Automation**
+
+---
+
+### 🚀 Languages and Tools
 <p align="left">
-    <a href="https://linkedin.com/in/miriasantosti" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="miriasantosti" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" /> </a> <a
-        href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c" width="40" height="40" /> </a> <a
-        href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a
-        href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a
-        href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-            alt="gcp" width="40" height="40" /> </a> <a
-        href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a
-        href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java" width="40" height="40" /> </a> <a
-        href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux" width="40" height="40" /> </a> <a
-        href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-            alt="mariadb" width="40" height="40" /> </a> <a
-        href="https://www.microsoft.com/en-us/sql-server" target="_blank"
-        rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-            alt="mssql" width="40" height="40" /> </a> <a
-        href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a
-        href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a
-        href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a> <a
-        href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a
-        href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-            alt="php" width="40" height="40" /> </a> <a
-        href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a> <a
-        href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a
-        href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"
-            width="40" height="40" /> </a> <a href="https://www.selenium.dev"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium" width="40" height="40" /> </a> <a
-        href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-            alt="sqlite" width="40" height="40" /> </a> </p>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge"/>
+</p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mihhsantos&show_icons=true&locale=en&layout=compact"
-        alt="mihhsantos" /></p>
+---
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mihhsantos&show_icons=true&locale=en"
-        alt="mihhsantos" /></p>
+### 📂 Featured Projects
 
-<p><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mihhsantos&"
-        alt="mihhsantos" /></p>
+#### 📊 Sales Dashboard (Excel + SQL)
+- Developed an interactive dashboard to analyze sales performance  
+- Identified top-performing products and regions  
+
+#### 🤖 Process Automation (Python)
+- Automated repetitive tasks reducing manual work  
+- Improved efficiency and reduced operational time  
+
+#### 📈 Business Analysis (SQL)
+- Built queries to analyze KPIs (revenue, ticket médio, volume)  
+- Generated insights for decision-making  
+
+---
+
+### 📊 Impact
+- ⏱️ Automated processes reducing hours of manual work  
+- 📉 Improved performance with optimized SQL queries  
+- 📊 Built dashboards used for business decision-making
