@@ -26,9 +26,19 @@
 
 ---
 
+### 💻 Additional Skills
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Linux  
+- Docker  
+- Postman  
+- DBeaver  
+
+---
+
 ### 🚀 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,html,css,js,docker,git,linux" />
 </p>
 
 <p>
